@@ -1,10 +1,10 @@
 **Instructions for Mac**
 1. Install required packages selenium pytest
-   **pip install selenium pytest
+   **pip install selenium pytest**
    
 2. Clone the repository and navigate to tests directory
 3. Run the test using the following command
-   **py.test -sv Login_tests.py
+   **py.test -sv Login_tests.py**
    
    
 **Instructions for Windows**
